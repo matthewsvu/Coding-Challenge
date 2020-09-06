@@ -36,5 +36,5 @@ Regardless if you can or cannot answer the question, provide a short explanation
   - I started by  intializing the centroids at random and using them to assign points to the nearest cluster
   - By finding the mean of all the points within the cluster I update the position of the cluster
   - This is repeated until the clusters have 
-  - The elbow method I graphed to find out the where graph looks like an arm / elbow joint, which I identified as 2
+  - The elbow method used was graphed to find out where graph looks like an arm / elbow joint, which I identified as 2
   - The silhouette method is utilized in my program to confirm the results

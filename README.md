@@ -27,8 +27,9 @@ Regardless if you can or cannot answer the question, provide a short explanation
   # -matplotlib
   # -sklearn
 ## Sources
-   # Used for learning how to extract data and use the KMeans algorithm respectively
-   https://www.youtube.com/watch?v=Qh7VxLsaU9M&ab_channel=LucasParisi
-   https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f
+  # Used for learning how to extract data and use the KMeans algorithm respectively
+   - https://www.youtube.com/watch?v=Qh7VxLsaU9M&ab_channel=LucasParisi
+   
+   - https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f
 ## How I did it
   - 

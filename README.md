@@ -32,7 +32,7 @@ Regardless if you can or cannot answer the question, provide a short explanation
    
    - https://blog.cambridgespark.com/how-to-determine-the-optimal-number-of-clusters-for-k-means-clustering-14f27070048f
 # How I did it
-  - I obtained my solution by implementing a KMeans Clustering algorithm using the Elbow Method and Silhouette analysis to confirm the amount of clusters as **2** in total
+  - I obtained my solution by implementing a KMeans Clustering algorithm using the Elbow Method and Silhouette analysis to confirm the amount of clusters as **3** in total
   - I started by  intializing the centroids at random and using them to assign points to the nearest cluster
   - By finding the mean of all the points within the cluster I update the position of the cluster
   - This is repeated until the clusters have 
